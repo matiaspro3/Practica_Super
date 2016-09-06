@@ -1,0 +1,18 @@
+http://ionicframework.com/docs/cli/icon-splashscreen.html
+descargamos los templates icon y splah y se los mandamos a:
+https://www.photopea.com/
+creamos los iconos, los reemplazamos en la carpeta resources y corremos los comandos:
+ionic resources --icon
+ionic resources --splash
+
+
+
+
+TP1: Entrega 24 sep.
+Hacer una trivia con un minimo de 3 preguntas y un minimo de 3 opciones por c/pregunta.
+Hacer incapié en los estilos (cambios de color botones cuando se equivoca, etc).
+Si utilizamos una app tipo tabs debemos tener un tab con los datos del autor (foto, email, github, etc).
+El primer tab después del logueo debe ser el de jugar! .. el de datos lo dejamos como secundario.
+
+Revisar manejo de teplates con angular (github del profe)
+apache cordova.. me hace la interpretación de las funcionalidades que se crean en ionic para los dispositivos, para no tener que programar en java o lenguajes a mas bajo nivel
